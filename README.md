@@ -1,6 +1,6 @@
 # Termius-cracked
 
-## 破解方法
+## 破解方法 9.6.1已验证
 
 安装npm 安装asar
 ```shell
