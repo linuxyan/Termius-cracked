@@ -81,3 +81,8 @@ e.access_objects=[{
 return .......
 ```
 3. 启动Termius，登录账号，重启Termius
+
+
+### 手动多端同步
+Win存储文件：C:\Users\[XXXXX]\AppData\Roaming\Termius\IndexedDB\file__0.indexeddb.leveldb\000003.log
+Mac存储文件：/Users/[XXXXX]/Library/Application Support/Termius/000003.log
